@@ -1,15 +1,15 @@
 # Route_42
 The route of the 42 Academy
-Some of the firsts projects need come *Community testers & guides*:
+To test some of the first projects you'll need to use *Community testers & guides*:
 	- [paco]
 	- [cheker]
 	- ...
-But don't worry, you'r going to find in the `README.md` of each project.
+But don't worry. You will find it in the `README.md` section of each project.
 
 # Ring 0
 In the ring0 you only are going to see the [libft](https://github.com/aseth0/Route_42/blob/main/Libft/README.md)
 
 # Ring 1
-This is so intereting because you'r going to learn about memory management, buffers strings...
-And maybe create a virtual machine to start your own lab.
-See: [ft_printf], [ft_get_next_line], [Born to be root]
+This is so interesting because you'll learn about memory management, buffers strings...
+And create a virtual machine to start your lab.
+See: [ft_printf], [ft_get_next_line](https://github.com/aseth0/Route_42/blob/main/get_next_line/README.md), [Born to be root]
