@@ -11,4 +11,7 @@ In the ring0 you only are going to see the [libft](https://github.com/aseth0/Rou
 # Ring 1
 This is so interesting because you'll learn about memory management, buffers strings...
 And create a virtual machine to start your lab.
-See: [ft_printf], [ft_get_next_line](https://github.com/aseth0/Route_42/blob/main/get_next_line/README.md), [Born to be root]
+See: 
+- [ft_printf] 
+- [ft_get_next_line](https://github.com/aseth0/Route_42/blob/main/get_next_line/README.md)
+- [Born to be root]
