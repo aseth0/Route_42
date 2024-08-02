@@ -1,9 +1,9 @@
 # Route_42
 The route of the 42 Academy
 To test some of the first projects you'll need to use *Community testers & guides*:
-	- [paco]
-	- [cheker]
-	- ...
+- [paco]
+- [cheker]
+- ...
 But don't worry. You will find it in the `README.md` section of each project.
 
 # Ring 0
