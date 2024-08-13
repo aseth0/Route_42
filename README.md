@@ -5,7 +5,7 @@ But don't worry. You will find it in the `README.md` section of each project.
 
 # Ring 0
 In the ring0 you're going to see the [libft](https://github.com/aseth0/Route_42/blob/main/Libft/README.md)\
-The most common functions you'll need with this language, coded by yourself!\
+The most common functions you'll need with this language, coded by yourself!
 
 # Ring 1
 This is so interesting because you'll learn about memory management, buffers strings...\
