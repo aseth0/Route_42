@@ -4,7 +4,7 @@ To test some of the first projects you'll need to use *Community testers & guide
 But don't worry. You will find it in the `README.md` section of each project.
 
 # Ring 0
-In the ring0 you're going to see the [libft](https://github.com/aseth0/Route_42/blob/main/Libft/README.md)\ç
+In the ring0 you're going to see the [libft](https://github.com/aseth0/Route_42/blob/main/Libft/README.md)\
 The most common functions you'll need with this language, coded by yourself!\
 
 # Ring 1
